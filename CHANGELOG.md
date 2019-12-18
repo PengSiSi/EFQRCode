@@ -288,3 +288,7 @@ Fix issue [#65](https://github.com/EFPrefix/EFQRCode/issues/65).
 ## [1.0.0](https://github.com/EFPrefix/EFQRCode/releases/tag/1.0.0) (2017-01-24)
 
 First public release.
+
+测试一下提交。
+
+
